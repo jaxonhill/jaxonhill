@@ -4,7 +4,7 @@
 - 🔭 I’m currently **completing my Computer Science degree** at San Diego State University!
 - 🌱 I’m currently learning **Java and Assembly** through school - as well as **React, NextJS, and Supabase** on my own.
 - 🤔 I’m **looking to learn and contribute** as much as I can **through a 2023 Summer Internship.**
-- 💬 Ask me about **NextJS, Tailwind, or becoming an "Indie Hacker."**
+- 💬 Ask me about **NextJS, Tailwind, or Framer Motion**
 
 
 <h3 align="left">Connect with me:</h3>
@@ -21,6 +21,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/38039349/60953119-d3c6f300-a2fc-11e9-9596-4978e5d52180.png" alt="framer motion" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
