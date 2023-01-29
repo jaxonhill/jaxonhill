@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://linkedin.com/in/jaxon-c-hill" target="blank">💼 LinkedIn</a>
-  <a href="https://linkedin.com/in/jaxon-c-hill" target="blank">💻 My Website</a>
+  <a href="https://jaxonhill.xyz/" target="blank">💻 My Website</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
