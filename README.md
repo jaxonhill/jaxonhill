@@ -1,7 +1,7 @@
 ### Hey, I'm Jaxon 👋
 
-#### Senior at San Diego State University studying Computer Science and building side projects in my free time.
+#### CS Student @ San Diego State University. Building and designing side projects in my free time.
 
-* 🎓 Building [fastclass.io](https://www.fastclass.io/) - a website where SDSU students can search hundreds of courses at once to find the best one that meets a graduation requirement. **Reached 5000 unique visitors since launching last semester.**
-* 🔨 Enjoy using `Linux` `Typescript` `Next.js` `React` `Tailwind CSS` `Python` `PostgreSQL` and `Figma`
-* 🧠 Learning `bash` `vim` and `docker`
+* 🎓 Building [fastclass.io](https://www.fastclass.io/) - a website where students can quickly search hundreds of courses at once, build schedules, and share them with friends.
+* 🔨 Enjoy using `Typescript` `Next.js` `React` `Tailwind CSS` `Python` `PostgreSQL` and `Figma`
+* Interested in design, user experience, building products, ai, gaming, and virtual reality.
